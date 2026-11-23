@@ -1,0 +1,1211 @@
+fileFormatVersion: 2
+guid: 18efda4314b33e1488565c4086992228
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6071428460523788417
+    second: "Bordo G\xFCl S\xFCslemeli Piksel Buton_0"
+  - first:
+      213: 6096673065698279036
+    second: "Bordo G\xFCl S\xFCslemeli Piksel Buton_1"
+  - first:
+      213: -1304862955008651089
+    second: "Bordo G\xFCl S\xFCslemeli Piksel Buton_2"
+  - first:
+      213: -5077126263275685738
+    second: "Bordo G\xFCl S\xFCslemeli Piksel Buton_3"
+  - first:
+      213: -7211382710358122114
+    second: "Bordo G\xFCl S\xFCslemeli Piksel Buton_4"
+  - first:
+      213: 3751947442525924909
+    second: "Bordo G\xFCl S\xFCslemeli Piksel Buton_5"
+  - first:
+      213: 1945808617762886473
+    second: "Bordo G\xFCl S\xFCslemeli Piksel Buton_6"
+  - first:
+      213: -6080712102345020853
+    second: "Bordo G\xFCl S\xFCslemeli Piksel Buton_7"
+  - first:
+      213: 2192214249137771434
+    second: "Bordo G\xFCl S\xFCslemeli Piksel Buton_8"
+  - first:
+      213: -1018602909641344307
+    second: "Bordo G\xFCl S\xFCslemeli Piksel Buton_9"
+  - first:
+      213: -6460693083486925526
+    second: "Bordo G\xFCl S\xFCslemeli Piksel Buton_10"
+  - first:
+      213: -135373980063788954
+    second: "Bordo G\xFCl S\xFCslemeli Piksel Buton_11"
+  - first:
+      213: -2851278506732264067
+    second: "Bordo G\xFCl S\xFCslemeli Piksel Buton_12"
+  - first:
+      213: 1644656849150559611
+    second: "Bordo G\xFCl S\xFCslemeli Piksel Buton_13"
+  - first:
+      213: 6805584531344561860
+    second: "Bordo G\xFCl S\xFCslemeli Piksel Buton_14"
+  - first:
+      213: -4177030552125809760
+    second: "Bordo G\xFCl S\xFCslemeli Piksel Buton_15"
+  - first:
+      213: -505691734074593458
+    second: "Bordo G\xFCl S\xFCslemeli Piksel Buton_16"
+  - first:
+      213: -1514067216935803301
+    second: "Bordo G\xFCl S\xFCslemeli Piksel Buton_17"
+  - first:
+      213: 631586697923412473
+    second: "Bordo G\xFCl S\xFCslemeli Piksel Buton_18"
+  - first:
+      213: -533973217226636116
+    second: "Bordo G\xFCl S\xFCslemeli Piksel Buton_19"
+  - first:
+      213: 7945521515138121828
+    second: "Bordo G\xFCl S\xFCslemeli Piksel Buton_20"
+  - first:
+      213: -2695571521184150240
+    second: "Bordo G\xFCl S\xFCslemeli Piksel Buton_21"
+  - first:
+      213: -4948266979513528369
+    second: "Bordo G\xFCl S\xFCslemeli Piksel Buton_22"
+  - first:
+      213: -4017406220679877519
+    second: "Bordo G\xFCl S\xFCslemeli Piksel Buton_23"
+  - first:
+      213: -5615208275927190101
+    second: "Bordo G\xFCl S\xFCslemeli Piksel Buton_24"
+  - first:
+      213: 7880161327039054780
+    second: "Bordo G\xFCl S\xFCslemeli Piksel Buton_25"
+  - first:
+      213: -7559513550978999875
+    second: "Bordo G\xFCl S\xFCslemeli Piksel Buton_26"
+  - first:
+      213: -2896856754691761856
+    second: "Bordo G\xFCl S\xFCslemeli Piksel Buton_27"
+  - first:
+      213: 6030169038189803318
+    second: "Bordo G\xFCl S\xFCslemeli Piksel Buton_28"
+  - first:
+      213: 8629716584559140868
+    second: "Bordo G\xFCl S\xFCslemeli Piksel Buton_29"
+  - first:
+      213: -4989225291120690788
+    second: "Bordo G\xFCl S\xFCslemeli Piksel Buton_30"
+  - first:
+      213: -7345259070903640352
+    second: "Bordo G\xFCl S\xFCslemeli Piksel Buton_31"
+  - first:
+      213: 4497298466371720661
+    second: "Bordo G\xFCl S\xFCslemeli Piksel Buton_32"
+  - first:
+      213: -8770970681466234280
+    second: "Bordo G\xFCl S\xFCslemeli Piksel Buton_33"
+  - first:
+      213: -219804637187368424
+    second: "Bordo G\xFCl S\xFCslemeli Piksel Buton_34"
+  - first:
+      213: 8401601937365048436
+    second: "Bordo G\xFCl S\xFCslemeli Piksel Buton_35"
+  - first:
+      213: -2756574899207997526
+    second: "Bordo G\xFCl S\xFCslemeli Piksel Buton_36"
+  - first:
+      213: 5966751798115903179
+    second: "Bordo G\xFCl S\xFCslemeli Piksel Buton_37"
+  - first:
+      213: 4726667017057069466
+    second: "Bordo G\xFCl S\xFCslemeli Piksel Buton_38"
+  - first:
+      213: 4546633117511914716
+    second: "Bordo G\xFCl S\xFCslemeli Piksel Buton_39"
+  - first:
+      213: 1258422344238478903
+    second: "Bordo G\xFCl S\xFCslemeli Piksel Buton_40"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Bordo G\xFCl S\xFCslemeli Piksel Buton_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2133
+        height: 688
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18897bc540c024450800000000000000
+      internalID: 6071428460523788417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bordo G\xFCl S\xFCslemeli Piksel Buton_1"
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 635
+        width: 72
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e33a80adbbb9450800000000000000
+      internalID: 6096673065698279036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bordo G\xFCl S\xFCslemeli Piksel Buton_2"
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 655
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0942e4e0234ede0800000000000000
+      internalID: -1304862955008651089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bordo G\xFCl S\xFCslemeli Piksel Buton_3"
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 642
+        width: 21
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69875a5309c6a89b0800000000000000
+      internalID: -5077126263275685738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bordo G\xFCl S\xFCslemeli Piksel Buton_4"
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 640
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e71e5b9e1a50ceb90800000000000000
+      internalID: -7211382710358122114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bordo G\xFCl S\xFCslemeli Piksel Buton_5"
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 639
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e61bff158911430800000000000000
+      internalID: 3751947442525924909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bordo G\xFCl S\xFCslemeli Piksel Buton_6"
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 645
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94396a6e0a6e00b10800000000000000
+      internalID: 1945808617762886473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bordo G\xFCl S\xFCslemeli Piksel Buton_7"
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 642
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a6e465f88fc9ba0800000000000000
+      internalID: -6080712102345020853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bordo G\xFCl S\xFCslemeli Piksel Buton_8"
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 635
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa31867ae3f4c6e10800000000000000
+      internalID: 2192214249137771434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bordo G\xFCl S\xFCslemeli Piksel Buton_9"
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 642
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcaf5abec023dd1f0800000000000000
+      internalID: -1018602909641344307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bordo G\xFCl S\xFCslemeli Piksel Buton_10"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 361
+        width: 67
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d40fbeed10756a0800000000000000
+      internalID: -6460693083486925526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bordo G\xFCl S\xFCslemeli Piksel Buton_11"
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 485
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6609776151e0f1ef0800000000000000
+      internalID: -135373980063788954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bordo G\xFCl S\xFCslemeli Piksel Buton_12"
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 512
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75648a0e493e68d0800000000000000
+      internalID: -2851278506732264067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bordo G\xFCl S\xFCslemeli Piksel Buton_13"
+      rect:
+        serializedVersion: 2
+        x: 2083
+        y: 490
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b754807c0bef2d610800000000000000
+      internalID: 1644656849150559611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bordo G\xFCl S\xFCslemeli Piksel Buton_14"
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 112
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c69fafd21b427e50800000000000000
+      internalID: 6805584531344561860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bordo G\xFCl S\xFCslemeli Piksel Buton_15"
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 114
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab569cf7d43806c0800000000000000
+      internalID: -4177030552125809760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bordo G\xFCl S\xFCslemeli Piksel Buton_16"
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 120
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4fe1a01c0c6bf8f0800000000000000
+      internalID: -505691734074593458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bordo G\xFCl S\xFCslemeli Piksel Buton_17"
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 116
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b562a7853e3fcfae0800000000000000
+      internalID: -1514067216935803301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bordo G\xFCl S\xFCslemeli Piksel Buton_18"
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 95
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1469661c8d3c800800000000000000
+      internalID: 631586697923412473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bordo G\xFCl S\xFCslemeli Piksel Buton_19"
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 97
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca442a32032f698f0800000000000000
+      internalID: -533973217226636116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bordo G\xFCl S\xFCslemeli Piksel Buton_20"
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 81
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460080988b9244e60800000000000000
+      internalID: 7945521515138121828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bordo G\xFCl S\xFCslemeli Piksel Buton_21"
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 63
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02dc825bbf7679ad0800000000000000
+      internalID: -2695571521184150240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bordo G\xFCl S\xFCslemeli Piksel Buton_22"
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 65
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf0d403669345bb0800000000000000
+      internalID: -4948266979513528369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bordo G\xFCl S\xFCslemeli Piksel Buton_23"
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 49
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c6ee1d35e4f38c0800000000000000
+      internalID: -4017406220679877519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bordo G\xFCl S\xFCslemeli Piksel Buton_24"
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 31
+        width: 68
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5b68dd2d5c212b0800000000000000
+      internalID: -5615208275927190101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bordo G\xFCl S\xFCslemeli Piksel Buton_25"
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 29
+        width: 99
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb30feed9f4fb5d60800000000000000
+      internalID: 7880161327039054780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bordo G\xFCl S\xFCslemeli Piksel Buton_26"
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 31
+        width: 48
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db915273a76371790800000000000000
+      internalID: -7559513550978999875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bordo G\xFCl S\xFCslemeli Piksel Buton_27"
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 31
+        width: 55
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 049186b312c4cc7d0800000000000000
+      internalID: -2896856754691761856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bordo G\xFCl S\xFCslemeli Piksel Buton_28"
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 45
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 637bcd08ac67fa350800000000000000
+      internalID: 6030169038189803318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bordo G\xFCl S\xFCslemeli Piksel Buton_29"
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 47
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 400e1fee289e2c770800000000000000
+      internalID: 8629716584559140868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bordo G\xFCl S\xFCslemeli Piksel Buton_30"
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 41
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c993b522806b2cab0800000000000000
+      internalID: -4989225291120690788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bordo G\xFCl S\xFCslemeli Piksel Buton_31"
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 33
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee9297bac5601a90800000000000000
+      internalID: -7345259070903640352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bordo G\xFCl S\xFCslemeli Piksel Buton_32"
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 29
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5def0a02d996e30800000000000000
+      internalID: 4497298466371720661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bordo G\xFCl S\xFCslemeli Piksel Buton_33"
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 33
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ad6d3c2a0474680800000000000000
+      internalID: -8770970681466234280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bordo G\xFCl S\xFCslemeli Piksel Buton_34"
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 31
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a9678d8d813fcf0800000000000000
+      internalID: -219804637187368424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bordo G\xFCl S\xFCslemeli Piksel Buton_35"
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 31
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c90ecc27c789470800000000000000
+      internalID: 8401601937365048436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bordo G\xFCl S\xFCslemeli Piksel Buton_36"
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 33
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7f2ffebbdaeb9d0800000000000000
+      internalID: -2756574899207997526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bordo G\xFCl S\xFCslemeli Piksel Buton_37"
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 37
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc62f9da5292ec250800000000000000
+      internalID: 5966751798115903179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bordo G\xFCl S\xFCslemeli Piksel Buton_38"
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 30
+        width: 44
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99ed3beb9e789140800000000000000
+      internalID: 4726667017057069466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bordo G\xFCl S\xFCslemeli Piksel Buton_39"
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 31
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd413553bb2e81f30800000000000000
+      internalID: 4546633117511914716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bordo G\xFCl S\xFCslemeli Piksel Buton_40"
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 15
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 736bfb56470d67110800000000000000
+      internalID: 1258422344238478903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Bordo G\xFCl S\xFCslemeli Piksel Buton_0": 6071428460523788417
+      "Bordo G\xFCl S\xFCslemeli Piksel Buton_1": 6096673065698279036
+      "Bordo G\xFCl S\xFCslemeli Piksel Buton_10": -6460693083486925526
+      "Bordo G\xFCl S\xFCslemeli Piksel Buton_11": -135373980063788954
+      "Bordo G\xFCl S\xFCslemeli Piksel Buton_12": -2851278506732264067
+      "Bordo G\xFCl S\xFCslemeli Piksel Buton_13": 1644656849150559611
+      "Bordo G\xFCl S\xFCslemeli Piksel Buton_14": 6805584531344561860
+      "Bordo G\xFCl S\xFCslemeli Piksel Buton_15": -4177030552125809760
+      "Bordo G\xFCl S\xFCslemeli Piksel Buton_16": -505691734074593458
+      "Bordo G\xFCl S\xFCslemeli Piksel Buton_17": -1514067216935803301
+      "Bordo G\xFCl S\xFCslemeli Piksel Buton_18": 631586697923412473
+      "Bordo G\xFCl S\xFCslemeli Piksel Buton_19": -533973217226636116
+      "Bordo G\xFCl S\xFCslemeli Piksel Buton_2": -1304862955008651089
+      "Bordo G\xFCl S\xFCslemeli Piksel Buton_20": 7945521515138121828
+      "Bordo G\xFCl S\xFCslemeli Piksel Buton_21": -2695571521184150240
+      "Bordo G\xFCl S\xFCslemeli Piksel Buton_22": -4948266979513528369
+      "Bordo G\xFCl S\xFCslemeli Piksel Buton_23": -4017406220679877519
+      "Bordo G\xFCl S\xFCslemeli Piksel Buton_24": -5615208275927190101
+      "Bordo G\xFCl S\xFCslemeli Piksel Buton_25": 7880161327039054780
+      "Bordo G\xFCl S\xFCslemeli Piksel Buton_26": -7559513550978999875
+      "Bordo G\xFCl S\xFCslemeli Piksel Buton_27": -2896856754691761856
+      "Bordo G\xFCl S\xFCslemeli Piksel Buton_28": 6030169038189803318
+      "Bordo G\xFCl S\xFCslemeli Piksel Buton_29": 8629716584559140868
+      "Bordo G\xFCl S\xFCslemeli Piksel Buton_3": -5077126263275685738
+      "Bordo G\xFCl S\xFCslemeli Piksel Buton_30": -4989225291120690788
+      "Bordo G\xFCl S\xFCslemeli Piksel Buton_31": -7345259070903640352
+      "Bordo G\xFCl S\xFCslemeli Piksel Buton_32": 4497298466371720661
+      "Bordo G\xFCl S\xFCslemeli Piksel Buton_33": -8770970681466234280
+      "Bordo G\xFCl S\xFCslemeli Piksel Buton_34": -219804637187368424
+      "Bordo G\xFCl S\xFCslemeli Piksel Buton_35": 8401601937365048436
+      "Bordo G\xFCl S\xFCslemeli Piksel Buton_36": -2756574899207997526
+      "Bordo G\xFCl S\xFCslemeli Piksel Buton_37": 5966751798115903179
+      "Bordo G\xFCl S\xFCslemeli Piksel Buton_38": 4726667017057069466
+      "Bordo G\xFCl S\xFCslemeli Piksel Buton_39": 4546633117511914716
+      "Bordo G\xFCl S\xFCslemeli Piksel Buton_4": -7211382710358122114
+      "Bordo G\xFCl S\xFCslemeli Piksel Buton_40": 1258422344238478903
+      "Bordo G\xFCl S\xFCslemeli Piksel Buton_5": 3751947442525924909
+      "Bordo G\xFCl S\xFCslemeli Piksel Buton_6": 1945808617762886473
+      "Bordo G\xFCl S\xFCslemeli Piksel Buton_7": -6080712102345020853
+      "Bordo G\xFCl S\xFCslemeli Piksel Buton_8": 2192214249137771434
+      "Bordo G\xFCl S\xFCslemeli Piksel Buton_9": -1018602909641344307
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

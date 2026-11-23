@@ -1,0 +1,2431 @@
+fileFormatVersion: 2
+guid: f1773cb59d7f62442981350cee43361e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2693600310453692157
+    second: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_0"
+  - first:
+      213: 4118049139084350368
+    second: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_1"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_0"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 752
+        width: 118
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df669770637916520800000000000000
+      internalID: 2693600310453692157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_1"
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 751
+        width: 118
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3d9b6afdf362930800000000000000
+      internalID: 4118049139084350368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_2"
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 751
+        width: 119
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbbd046e44f72114693f2b710b2bbc00
+      internalID: -1211045421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_3"
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 752
+        width: 117
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106075a67e622d84289e5a2d90d65060
+      internalID: -1065236887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_4"
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 751
+        width: 115
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2927a57eb650154cb7a19976da99261
+      internalID: -735789929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_5"
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 751
+        width: 119
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521ff6cc1c31033449daa43bc9e29941
+      internalID: -232843848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_6"
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 753
+        width: 117
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d697a6084633d6a42b77067126b36dac
+      internalID: -1057740387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_7"
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 753
+        width: 117
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97bd35c8560af644dbfff57851cf56b1
+      internalID: -759797300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_8"
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 751
+        width: 119
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dacaa03bca7069a478a331e139e85c18
+      internalID: 1910252541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_9"
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 752
+        width: 114
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b0b094d7c1dcb42b271ea35fdd8022
+      internalID: 1760933583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_10"
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 752
+        width: 118
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be04e1c16aa2c2a4aa2e172857d9bba6
+      internalID: -1232603546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_11"
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 753
+        width: 118
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d23aa60b94e9254f9e1ad0b4f123972
+      internalID: -2140600884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_12"
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 626
+        width: 120
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c893c6886277f46a968218f98a106d
+      internalID: 1721129572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_13"
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 627
+        width: 118
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf3de0c5a0b1324ea134142c99a22a2
+      internalID: 1802281587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_14"
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 627
+        width: 118
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1faa8e771a6bf04bacbf8e7e94562d0
+      internalID: -511937267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_15"
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 626
+        width: 117
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13bd63f8bc81914f9331c4630fd0ee4
+      internalID: 2049646835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_16"
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 626
+        width: 116
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa48dc6eb161c014181cdb0b29a8c59a
+      internalID: -1769962618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_17"
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 626
+        width: 119
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc0e01cdad08024dbed5556121e9729
+      internalID: 45471546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_18"
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 626
+        width: 119
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f424761e9a131478bcffc8d90598b3
+      internalID: -1284920798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_19"
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 626
+        width: 117
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c3a6183d3141c43b7b2d745c5fe508
+      internalID: -2082204935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_20"
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 627
+        width: 120
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543664c1edaee3647b870a1e6090ad16
+      internalID: -1939670766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_21"
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 626
+        width: 115
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a12bafa2441714b938430d89c3c0f1
+      internalID: 579461870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_22"
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 627
+        width: 117
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d85d37fe646bb45afd04e715833d83
+      internalID: 1243934657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_23"
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 627
+        width: 118
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3cbbc117533a9c49a9ecf6c8765d29f
+      internalID: 1262584572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_24"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 505
+        width: 117
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b3f4de0018e09449fdb8e0d63a3155
+      internalID: 144457804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_25"
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 505
+        width: 118
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57cfdf18787e07641a7323bf3b9a2a2a
+      internalID: 2031021152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_26"
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 505
+        width: 122
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6684af10b0a01c145ac5408f04413751
+      internalID: -1318817612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_27"
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 505
+        width: 117
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357826463091fc44c8f8f6b483866a29
+      internalID: 1490813616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_28"
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 505
+        width: 118
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad0f61948904774e874c83dd8edeedd
+      internalID: 1659955288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_29"
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 506
+        width: 118
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37cbcd537a525034ca733d1627462943
+      internalID: 1408065950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_30"
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 505
+        width: 120
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4813a1272642fc48bd5c8b24c716e3b
+      internalID: 1055536952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_31"
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 504
+        width: 119
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dffdf5403cbf91448c2537a5e815769
+      internalID: 1472668603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_32"
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 506
+        width: 123
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9dc6fb96b3c9e4585ecce9ccc6c267
+      internalID: 1839121859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_33"
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 505
+        width: 120
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460c4b547f579a142bfdbd3cf32aa227
+      internalID: -265203826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_34"
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 506
+        width: 122
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5063f5d23b3b343a6be234b20c8f39
+      internalID: 534022085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_35"
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 505
+        width: 117
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057b1ad89433703479eb910ec4286830
+      internalID: -1814237146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_36"
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 391
+        width: 120
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af754692c08c7e49ab2e19a6b97602e
+      internalID: -2000498710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_37"
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 393
+        width: 120
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b558665f7b48c5849bbdc4b833212e24
+      internalID: -790473010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_38"
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 393
+        width: 122
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da113c7d60fac8549af0c3c3b9441e20
+      internalID: -1279010631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_39"
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 393
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa512401000bab349ab62909eb55dfe9
+      internalID: 1440054857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_40"
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 392
+        width: 118
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703dd26574880d54cacd84efaaf19d3c
+      internalID: 913607402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_41"
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 393
+        width: 120
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d945ac3a8bb84e40b228faa01e91f48
+      internalID: -904831330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_42"
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 393
+        width: 117
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632c83fc9ca599d4799d3468c6047be9
+      internalID: -1658077952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_43"
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 393
+        width: 118
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44aafbe0f5433e14f89a8b811242a96b
+      internalID: 1893857665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_44"
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 391
+        width: 123
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f11cfe229a06e04bafd51d133f628c6
+      internalID: 1028493038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_45"
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 391
+        width: 118
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d732c803ae5fc664a90ed90de9180b8b
+      internalID: 1198392119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_46"
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 392
+        width: 121
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcda2069ec9e27345907239652630824
+      internalID: -457659875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_47"
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 392
+        width: 120
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e5d4c29785d2a4cac2616a0348793f
+      internalID: -1653102908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_48"
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 296
+        width: 89
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60144c204c321044997d9fb7949930f6
+      internalID: -1020110570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_49"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 292
+        width: 101
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9b71b9ca8867240bf82c057d6c316d
+      internalID: 1611429509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_50"
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 291
+        width: 111
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e810100d0fcac804c9b18161c3dec389
+      internalID: 1214359638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_51"
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 297
+        width: 109
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed58bd008a635d444bfc0caad2222f98
+      internalID: -807405545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_52"
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 297
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477d63c740ef5204380967fc5cecbdc6
+      internalID: 658817474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_53"
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 290
+        width: 113
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0caab84ce0210b941a72bbb14e87102f
+      internalID: -1460851569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_54"
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 285
+        width: 113
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892dde557d9dc1b4381c21150e5633d2
+      internalID: -845788992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_55"
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 285
+        width: 123
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847ddb4d46bc2b84585506fe9e1f7ceb
+      internalID: -1934140052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_56"
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 286
+        width: 111
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1903a7c35d15908458dad56ae389f924
+      internalID: 154504119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_57"
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 295
+        width: 103
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31e2ca0d8c06ef4a81099761bf9019f
+      internalID: 1431749767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_58"
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 300
+        width: 111
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b249d545f4681f4380a448570615cbf
+      internalID: 691995099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_59"
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 287
+        width: 112
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3cf85e8b0e8a0147ad8019e2c613c37
+      internalID: 1783199409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_60"
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 207
+        width: 98
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5bb7362f01a2145a9c11029baa1580
+      internalID: 1312833248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_61"
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 204
+        width: 81
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f38295cfd9334f41b7f6df1a0d25c73
+      internalID: 2039426609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_62"
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 209
+        width: 62
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642f3f89b1cd90646a2f3f406085f10e
+      internalID: 1311064781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_63"
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 208
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897ebc59e47c93b459d24a0d1292103d
+      internalID: -1791906226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_64"
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 205
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66bdde2b660f55848b31e6579d21fb44
+      internalID: 1537438985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_65"
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 204
+        width: 92
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93a0c542da90974b8ff4f51504679b3
+      internalID: -883260225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_66"
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 205
+        width: 69
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f0cd7416c5b0543941b27286990c67
+      internalID: 1298408573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_67"
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 208
+        width: 51
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dfad405b58fc4f43b23a12c2af26d47
+      internalID: 1224157243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_68"
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 204
+        width: 57
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a41f585c1081041bfa1dfeb3ea4c1c
+      internalID: 757775556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_69"
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 217
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9fbe72ad8273f4998ebc881709b097
+      internalID: -1516050465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_70"
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 215
+        width: 82
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3151d9ab2c3c143bc0cdc1f96a08eb
+      internalID: 846126909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_71"
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 208
+        width: 105
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19cd08cdd7f629c4289088e5b0787bfe
+      internalID: -667779535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_72"
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 115
+        width: 113
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e31693753ce3cc4e905916bcf6aa1ec
+      internalID: 323895028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_73"
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 116
+        width: 98
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d375a1254da8cea40acf01fce4ea630c
+      internalID: 781082619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_74"
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 116
+        width: 103
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8d317ec489a774bbc75207ea1c437c
+      internalID: 320457618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_75"
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 115
+        width: 46
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b7726563f032244b66dd066e26c0b4
+      internalID: -1986960425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_76"
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 114
+        width: 72
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ede9e6f5d1e6e44bcef17f852050f3
+      internalID: -1833447013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_77"
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 114
+        width: 93
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a336ed4e51644c94382236c5729af276
+      internalID: -784911745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_78"
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 116
+        width: 84
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff825840fbd854d468c24a0306a5c0c9
+      internalID: 1215967858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_79"
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 203
+        width: 56
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a978ec3383dd5dc4fa0cfa5adc42d0e8
+      internalID: -59053660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_80"
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 115
+        width: 99
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe34364f73a2c504fb1a8a084c89be00
+      internalID: -1989849925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_81"
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 111
+        width: 91
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2593fddd2aa843c409d58d4386862acb
+      internalID: -719158416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_82"
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 112
+        width: 83
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf64f088b4c8de479a552e315941a21
+      internalID: -2083322556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_83"
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 113
+        width: 135
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761d8f3fe6d445349bc7a2041767d990
+      internalID: -2069081927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_84"
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 3
+        width: 139
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc6bf3abdd4baf48b2bdbb6cc4588c1
+      internalID: 1751995376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_85"
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 3
+        width: 131
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff5c0ae054fd4c4aaedb651dc93e664
+      internalID: -1964255913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_86"
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 3
+        width: 139
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578292b14aac3c84f96e585c65283669
+      internalID: -1970285536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_87"
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 2
+        width: 155
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d010b48882c205547bb158ff8344deab
+      internalID: 1015583434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_88"
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 112
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18c131661805d0428aa50c62b6d20cc
+      internalID: -678133345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_89"
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 0
+        width: 159
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0347343b8985a224cb9688e64f6f1913
+      internalID: 1321056528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_90"
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 0
+        width: 130
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd8abd3a1d27da4f9b7bacdcac52e43
+      internalID: -703849004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_91"
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 0
+        width: 111
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea002a9915137843b3079cb960d2e90
+      internalID: 1901458506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_92"
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 0
+        width: 131
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7b5e4ce8986b2439b1fe024a941606
+      internalID: -1586275151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_93"
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 2
+        width: 106
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126360971906c1e42b8eb16b3c26b230
+      internalID: 1893944037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_94"
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 0
+        width: 138
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9065f4af81091674b870bb705f1808d9
+      internalID: 1961269743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_96"
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 209
+        width: 56
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59732c0e593fa324b988288485cf4eb0
+      internalID: 1878645179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_97"
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 113
+        width: 70
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020281f42d4b9264d8b68c189be5b8cb
+      internalID: 73416354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_98"
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 113
+        width: 82
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a28afc3452cc754e9909d72e92e37d7
+      internalID: -130511747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_99"
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 204
+        width: 58
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28b7b757f337374a83ece933131c916
+      internalID: 2113897868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9962a678f987de148b6720180d749756
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":12.0,"y":8.0},"gridSpriteSize":{"x":123.0,"y":108.0},"gridSpriteOffset":{"x":70.0,"y":10.0},"gridSpritePadding":{"x":20.0,"y":1.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_0": 2693600310453692157
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_1": 4118049139084350368
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_10": -1232603546
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_11": -2140600884
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_12": 1721129572
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_13": 1802281587
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_14": -511937267
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_15": 2049646835
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_16": -1769962618
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_17": 45471546
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_18": -1284920798
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_19": -2082204935
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_2": -1211045421
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_20": -1939670766
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_21": 579461870
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_22": 1243934657
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_23": 1262584572
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_24": 144457804
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_25": 2031021152
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_26": -1318817612
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_27": 1490813616
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_28": 1659955288
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_29": 1408065950
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_3": -1065236887
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_30": 1055536952
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_31": 1472668603
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_32": 1839121859
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_33": -265203826
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_34": 534022085
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_35": -1814237146
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_36": -2000498710
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_37": -790473010
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_38": -1279010631
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_39": 1440054857
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_4": -735789929
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_40": 913607402
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_41": -904831330
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_42": -1658077952
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_43": 1893857665
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_44": 1028493038
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_45": 1198392119
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_46": -457659875
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_47": -1653102908
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_48": -1020110570
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_49": 1611429509
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_5": -232843848
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_50": 1214359638
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_51": -807405545
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_52": 658817474
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_53": -1460851569
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_54": -845788992
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_55": -1934140052
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_56": 154504119
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_57": 1431749767
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_58": 691995099
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_59": 1783199409
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_6": -1057740387
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_60": 1312833248
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_61": 2039426609
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_62": 1311064781
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_63": -1791906226
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_64": 1537438985
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_65": -883260225
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_66": 1298408573
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_67": 1224157243
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_68": 757775556
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_69": -1516050465
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_7": -759797300
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_70": 846126909
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_71": -667779535
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_72": 323895028
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_73": 781082619
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_74": 320457618
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_75": -1986960425
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_76": -1833447013
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_77": -784911745
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_78": 1215967858
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_79": -59053660
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_8": 1910252541
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_80": -1989849925
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_81": -719158416
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_82": -2083322556
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_83": -2069081927
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_84": 1751995376
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_85": -1964255913
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_86": -1970285536
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_87": 1015583434
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_88": -678133345
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_89": 1321056528
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_9": 1760933583
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_90": -703849004
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_91": 1901458506
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_92": -1586275151
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_93": 1893944037
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_94": 1961269743
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_95": 778657521
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_96": 1878645179
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_97": 73416354
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_98": -130511747
+      "Gotik Viktorya Karolar\u0131 Sprite Sayfas\u0131_99": 2113897868
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
